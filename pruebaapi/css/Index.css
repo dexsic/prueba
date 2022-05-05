@@ -1,0 +1,100 @@
+body{
+    background-color: #85C1E9;
+}
+.titulo{
+    display: inline;
+    margin-left: 3%;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+.img-inicio{
+    display: block;
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+
+.container{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.info{
+    text-align: left;
+    margin-left: 9%;
+}
+
+.tabla_uno{
+    position:relative;
+    float: left;
+    height: auto;
+    margin-left: 5%;
+}
+
+.tabla_dos{
+    position:relative;
+    float: right;
+    height: auto;
+    margin-right: 35%;
+    margin-top: 5%;
+}
+
+.subtit{
+    margin-top: 1%;
+}
+
+.boton{
+    margin: 20% auto;
+    margin-bottom: auto;
+    width: 50%;
+    text-align: center;
+}
+
+/* change the background color */
+.navbar-custom {
+    background-color: #51034f;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+body{
+    background-color: #e6e6e7;
+}
+
+html{
+    color: #2f2f2f;
+}
+.btn{
+    width: 230px !important;
+    margin:15px 6px 2px 0;
+    padding:6px 12px;
+    font-size:16px;
+    text-align:center;
+    cursor:pointer;outline:0; 
+    float:center; 
+    background-color:#51034f;
+    color: rgb(255, 255, 255);
+}
+
+  .btn a {
+    color:#ffffff;
+    text-decoration:none;}
+  
